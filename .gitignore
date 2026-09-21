@@ -1,0 +1,11 @@
+.env
+.env.*
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+*.pt
+model_weights/
+datasets/
+data/
+credentials*.json
+*service*account*.json
